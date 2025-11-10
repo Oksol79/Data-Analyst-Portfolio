@@ -53,7 +53,7 @@ The periods with the highest sales volumes were determined. Analytical recommend
 
 ### Project 2: FCA based Ontology for Intelligent Diagnostics
 [View Project](https://docs.google.com/spreadsheets/d/1sRrtwN9uKe3z_onr-Pv6Q5D4KiA5WZ1l/edit?usp=sharing&ouid=104269468961255412319&rtpof=true&sd=true)  
-[Publication](https://ieeexplore.ieee.org/document/6662995)
+[Publication](https://ieeexplore.ieee.org/document/6662995/)
 
 This project presents an ontology for the domain "Intelligent Diagnostics of Computer Systems", developed based on expert knowledge and evaluations.
 The ontology integrates concepts from two interconnected fields:
